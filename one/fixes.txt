@@ -1,0 +1,10 @@
+i am fix file which will be used to fix the bug .
+
+fixes
+
+one more bug detected and fixed
+fourth bug fixed
+fifth bug fixed
+
+another fix messege 
+another fix messege for purple mode
